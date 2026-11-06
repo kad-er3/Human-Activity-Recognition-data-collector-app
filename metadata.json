@@ -1,0 +1,6 @@
+{
+  "name": "MotionML Collector",
+  "description": "Collect accelerometer and gyroscope motion data, label user activities, export ML-ready CSV datasets, and view activity analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
